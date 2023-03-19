@@ -1,9 +1,9 @@
-##Text Utils
+Text Utils
 
-#Description
+Description->
 With TextUtils app you can perform many operations on text like converting to uppercase ,lowercase,synthsizing voice over text etc...
 
-#Features
+Features->
 conversion to uppercase 
 conversion to lowercase 
 conversion to alternativeCase 
@@ -13,5 +13,5 @@ Copy text
 Speach Synthesis 
 Dark/Light Mode
 
-#Tech Stack
+Tech Stack->
 React , Bootstrap
