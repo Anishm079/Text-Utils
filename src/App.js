@@ -42,7 +42,7 @@ function App() {
       <Navbar name="About Us" theme={theme} toggleTheme={toggleTheme}/>
       <Alert alert={alert} theme={theme}/>
       <Routes>``
-      <Route exact path="/" element={ <Container theme={theme} toggleTheme={toggleTheme} showAlert={showAlert}/>} /> 
+      <Route exact path="/" element={ <Container theme={theme} showAlert={showAlert}/>} /> 
       <Route exact path="/about" element={<About theme={theme} />} />
       </Routes>
     </Router>
